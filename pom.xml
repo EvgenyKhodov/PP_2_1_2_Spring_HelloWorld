@@ -28,6 +28,7 @@
             <scope>test</scope>
         </dependency>
 
+
         <dependency>
             <groupId>org.scalatestplus</groupId>
             <artifactId>junit-4-12_2.13</artifactId>
